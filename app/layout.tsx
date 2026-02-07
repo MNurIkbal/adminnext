@@ -10,7 +10,6 @@ import '../public/assets/css/style.css'
 import '../public/assets/css/prism.css'
 import '../public/assets/css/jquery-jvectormap-2.0.5.css'
 
-
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
